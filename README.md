@@ -79,6 +79,14 @@ We welcome contributions! 🌱 If you’d like to improve the lab or add more fe
 
 ---
 
+## **References**  
+- [Where’s Waldo Dataset on Kaggle](https://www.kaggle.com/datasets/residentmario/wheres-waldo)  
+- [Where’s Waldo IMDb](https://www.imdb.com/title/tt0213376/)  
+- [Can a Computer Answer “Where’s Waldo”? - Medium](https://medium.com/@reece.riherd_73510/can-a-computer-answer-wheres-waldo-using-machine-learning-to-find-waldo-362ee674fb3f)  
+- [Finding Waldo Using a Simple Convolutional Neural Network - Medium](https://medium.com/analytics-vidhya/finding-waldo-using-a-simple-convolutional-neural-network-1604cb4d2e55)  
+
+---
+
 ## **Contact**  
 For any questions or issues, reach out to:  
 👨‍🏫 **Dr. Teerapong Panboonyuen**  
