@@ -57,7 +57,7 @@ This activity is designed for students and beginners curious about AI and machin
 ## **Event Details**  
 📅 **Date:** 26 December 2024  
 📍 **Venue:** อาคารศูนย์ประชุมอุทยานวิทยาศาสตร์ประเทศไทย (Thailand Science Park Convention Center)  
-🎓 **Instructor:** Dr. Teerapong Panboonyuen 🧑‍🏫  
+🎓 **Instructor:** Teerapong Panboonyuen (P'Kao) 
 
 ---
 
@@ -89,7 +89,7 @@ We welcome contributions! 🌱 If you’d like to improve the lab or add more fe
 
 ## **Contact**  
 For any questions or issues, reach out to:  
-👨‍🏫 **Dr. Teerapong Panboonyuen**  
+👨‍🏫 **Teerapong Panboonyuen (P'Kao)**  
 📧 Email: [kao.panboonyuen@gmail.com](mailto:kao.panboonyuen@gmail.com)
 
 ![](img/waldo_03.jpg)
