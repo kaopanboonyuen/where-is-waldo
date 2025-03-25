@@ -15,7 +15,7 @@ Welcome to the **Where’s Waldo AI Lab**! 🎉 In this project, you'll explore 
 ### 📥 **Download Resources**  
 Easily access the slides and Google Colab notebook for a seamless learning experience:
 
-- Slide: [**Download Slides**](https://github.com/kaopanboonyuen/where-is-waldo/slides/WALDO-AI.pdf) 📜
+- Slide: [**Download Slides**](https://github.com/kaopanboonyuen/where-is-waldo/tree/main/slides) 📜
 - Lab: [**Colab**](https://colab.research.google.com/github/kaopanboonyuen/where-is-waldo/blob/main/code/WALDO_AI_NAC2025_V2_toStudent.ipynb) 🌐
 
 ## **About the Lab**  
