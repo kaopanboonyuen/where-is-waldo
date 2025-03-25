@@ -17,6 +17,7 @@ Welcome to the **Where’s Waldo AI Lab**! 🎉 In this project, you'll explore 
 
 This activity is designed for students and beginners curious about AI and machine learning. No prior knowledge of AI is required—just bring your curiosity and enthusiasm! 😄  
 
+![](img/waldo_ai_logo.png)
 ![](img/waldo_01.jpg)
 
 ---
