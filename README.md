@@ -16,7 +16,7 @@ Welcome to the **Where’s Waldo AI Lab**! 🎉 In this project, you'll explore 
 Easily access the slides and Google Colab notebook for a seamless learning experience:
 
 - Slide: [**Download Slides**](https://github.com/kaopanboonyuen/where-is-waldo/tree/main/slides) 📜
-- Lab: [**Colab**](https://colab.research.google.com/github/kaopanboonyuen/where-is-waldo/blob/main/code/WALDO_AI_NAC2025_V2_toStudent.ipynb) 🌐
+- Lab: [**Google Colab**](https://colab.research.google.com/github/kaopanboonyuen/where-is-waldo/blob/main/code/WALDO_AI_NAC2025_V2_toStudent.ipynb) 🌐
 
 ## **About the Lab**  
 *Where’s Waldo* is a classic puzzle where Waldo, a character in a red-striped shirt, red beanie, and glasses, is hidden among hundreds of people in busy scenes. 🧑‍🤝‍🧑 In this lab, you’ll use cutting-edge AI techniques to teach a computer to spot Waldo faster than any human can! 🚀
